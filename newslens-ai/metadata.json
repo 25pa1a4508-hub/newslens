@@ -1,0 +1,6 @@
+{
+  "name": "NewsLens AI",
+  "description": "AI-powered broadsheet intelligence platform to analyze newspapers, compare coverage, track topics, and extract perspective-based insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
